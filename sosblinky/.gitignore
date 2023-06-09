@@ -1,0 +1,6 @@
+sosblinky
+*.bin
+sosblinky.elf
+*.elf
+sosblinky.o
+*.o
